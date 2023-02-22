@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ademilson Mendes
-- 👀 I’m interested in  Data Science
-- 🌱 I’m currently learnwer Microsoft Power BI
+- 👀 I’m interested in  Análise e Desenvolvimento de Sistemas
+- 🌱 I’m currently learnwer Full Stack e Análise e Desenvolvimento de Sistema
 - 💞️ I’m looking to collaborate com o compartilhamento de aprendizado
 - 📫 How to reach me ademilsonmendes1307@gmail.com / @ademilson.mendes_
 
